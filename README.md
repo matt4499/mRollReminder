@@ -6,6 +6,6 @@ It will also automaticaly roll for you. (well semi-automatically, with 1 click o
 
 This could also be used as just an auto typer/reminder program.
 
-Screenshot:
+
 ![IMG1](https://i.imgur.com/7fpsnv8.png)
  
