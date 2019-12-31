@@ -1,0 +1,15 @@
+C:\Users\mbm20\source\repos\RollReminder\bin\Debug\RollReminder.exe.config
+C:\Users\mbm20\source\repos\RollReminder\bin\Debug\RollReminder.exe
+C:\Users\mbm20\source\repos\RollReminder\bin\Debug\RollReminder.pdb
+C:\Users\mbm20\source\repos\RollReminder\bin\Debug\MaterialSkin.dll
+C:\Users\mbm20\source\repos\RollReminder\obj\Debug\RollReminder.csprojAssemblyReference.cache
+C:\Users\mbm20\source\repos\RollReminder\obj\Debug\RollReminder.Properties.Resources.resources
+C:\Users\mbm20\source\repos\RollReminder\obj\Debug\RollReminder.csproj.GenerateResource.cache
+C:\Users\mbm20\source\repos\RollReminder\obj\Debug\RollReminder.csproj.CopyComplete
+C:\Users\mbm20\source\repos\RollReminder\obj\Debug\RollReminder.exe
+C:\Users\mbm20\source\repos\RollReminder\obj\Debug\RollReminder.pdb
+C:\Users\mbm20\source\repos\RollReminder\obj\Debug\RollReminder.Form1.resources
+C:\Users\mbm20\source\repos\RollReminder\bin\Debug\RollReminder.exe.manifest
+C:\Users\mbm20\source\repos\RollReminder\bin\Debug\RollReminder.application
+C:\Users\mbm20\source\repos\RollReminder\obj\Debug\RollReminder.exe.manifest
+C:\Users\mbm20\source\repos\RollReminder\obj\Debug\RollReminder.application
